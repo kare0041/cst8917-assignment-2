@@ -1,6 +1,6 @@
 # CST8917 – Serverless Service Alternatives Report
 **Due:** August 15, 2025  
-**Author:** _(Your Name)_  
+**Author:** Daniel Karengera 
 **Course:** Serverless Applications (CST8917)  
 **Repo:** This README is the primary deliverable.
 
